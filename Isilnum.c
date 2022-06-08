@@ -1,7 +1,7 @@
 #include <conio.h>
 #include <stdio.h>
 int main() {
-  // declaration of the variables
+
   int ch1 = 'A';
   int ch2 = 'e';
   int ch3 = '$';
